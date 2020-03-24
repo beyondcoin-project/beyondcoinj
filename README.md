@@ -1,4 +1,4 @@
-### Latest (2019/05) beyondcoinj branch: https://github.com/beyondcoinlabs/beyondcoinj/tree/beyondcoin-0.17.1
+### Latest (2019/05) beyondcoinj branch: https://github.com/beyondcoin-project/beyondcoinj/tree/beyondcoin-0.16.3
 
 
 [![Build Status](https://travis-ci.org/bitcoinj/bitcoinj.png?branch=master)](https://travis-ci.org/bitcoinj/bitcoinj)   [![Coverage Status](https://coveralls.io/repos/bitcoinj/bitcoinj/badge.png?branch=master)](https://coveralls.io/r/bitcoinj/bitcoinj?branch=master) 
